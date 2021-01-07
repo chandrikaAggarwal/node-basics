@@ -1,8 +1,5 @@
-// const st = 'Your notes ..';
-// module.exports = st;
 
 const fs = require('fs');
-const chalk = require('chalk');
 const commonUt = require('./common');
 
 const fileName = 'notes.json';
